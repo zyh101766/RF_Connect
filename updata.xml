@@ -4,13 +4,14 @@
   <version>1.1.0.0</version>
 
   <!-- 这里必须是 zip 文件的 Raw 直链，不是 .git，也不是网页地址 -->
- <url>https://raw.githubusercontent.com/zyh101766/RF_Connect/main/release/RF-Connect_Setup_1.1.0.0.exe</url>
+ <url>https://raw.githubusercontent.com/zyh101766/RF_Connect/main/release/RF-Connect_1.1.0.0.exe</url>
 
 
   <!-- 更新日志地址，正常网页就可以 -->
-  <changelog>https://github.com/zyh101766/RF_Connect/releases</changelog>
+  <changelog>https://github.com/zyh101766/RF_Connect/release</changelog>
 
   <!-- 是否强制更新 -->
   <mandatory>false</mandatory>
 </item>
+
 
