@@ -7,11 +7,12 @@
   <url>https://raw.githubusercontent.com/zyh101766/RF_Connect/main/release/RF-Connect_1.0.0.0.zip</url>
 
   <!-- 更新日志地址，正常网页就可以 -->
-  <changelog>https://github.com/zyh101766/RF_Connect/release</changelog>
+  <changelog>https://github.com/zyh101766/RF_Connect/releases</changelog>
 
   <!-- 是否强制更新 -->
   <mandatory>false</mandatory>
 </item>
+
 
 
 
